@@ -1,10 +1,10 @@
-# -*- coding: utf-8 -*-
-"""
-Actually made in .ipynb Colab's Format then Converted into this .py Format too for Streamlit use.
 
-The Colab's "Project_Sonifyr.ipynb" Code is located at:
-    https://colab.research.google.com/drive/15v7xhWBH0s3Yq0f6fpg7wMNnf9qurVOz?usp=sharing
-"""
+#"""
+#Actually made in .ipynb Colab's Format then Converted into this .py Format too for Streamlit use.
+
+#The Colab's "Project_Sonifyr.ipynb" Code is located at:
+#    https://colab.research.google.com/drive/15v7xhWBH0s3Yq0f6fpg7wMNnf9qurVOz?usp=sharing
+#"""
 
 import streamlit as st
 import requests
